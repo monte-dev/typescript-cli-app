@@ -1,0 +1,18 @@
+{
+	"name": "module-34",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"inquirer": "8.2.4",
+		"nodemon": "2.0.20",
+		"ts-node": "8.10.2",
+		"typescript": "^5.2.2"
+	},
+	"scripts": {
+		"watch": "nodemon"
+	},
+	"devDependencies": {
+		"@types/node": "^20.6.0"
+	}
+}
